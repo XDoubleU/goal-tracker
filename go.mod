@@ -2,7 +2,7 @@ module goal-tracker/api
 
 go 1.22
 
-toolchain go1.22.4
+toolchain go1.23.3
 
 require github.com/justinas/alice v1.2.0
 
